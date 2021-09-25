@@ -3,6 +3,9 @@
 ## About
 Python Notebook in Jupyter that will generate a series of unique images using a collection of layers.
 
+This is the orginal Repo: https://github.com/benyaminahmed/nft-image-generator
+He is an amazing 12 year old kid that made great code, I repurposed it to work with Solana. 
+
 ## Getting Started
 1. Install [Python](https://www.python.org/downloads/)
 

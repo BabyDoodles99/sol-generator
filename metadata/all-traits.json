@@ -1,0 +1,47 @@
+[
+    {
+        "Background": "Pink-Paper",
+        "Base": "Base",
+        "Features": "Freckled",
+        "Eyes": "Cartoon",
+        "Mouth": "Tongue-Out",
+        "Hat": "Baseball",
+        "tokenId": 0
+    },
+    {
+        "Background": "White-Paper",
+        "Base": "Base",
+        "Features": "Clean",
+        "Eyes": "Brow",
+        "Mouth": "Puckered",
+        "Hat": "Baseball",
+        "tokenId": 1
+    },
+    {
+        "Background": "White-Paper",
+        "Base": "Base",
+        "Features": "Freckled",
+        "Eyes": "Brow",
+        "Mouth": "Puckered",
+        "Hat": "Crown",
+        "tokenId": 2
+    },
+    {
+        "Background": "Blue-Paper",
+        "Base": "Base",
+        "Features": "Freckled",
+        "Eyes": "Aviator",
+        "Mouth": "Frown",
+        "Hat": "Santa",
+        "tokenId": 3
+    },
+    {
+        "Background": "White-Paper",
+        "Base": "Base",
+        "Features": "Freckled",
+        "Eyes": "Clout",
+        "Mouth": "Frown",
+        "Hat": "Crown",
+        "tokenId": 4
+    }
+]

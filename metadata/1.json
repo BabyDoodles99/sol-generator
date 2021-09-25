@@ -1,0 +1,54 @@
+{
+    "name": "Baby Doodles #1",
+    "symbol": "BABY",
+    "description": "Here come the newbies working togther to slide into the market!",
+    "seller_fee_basis_points": 690,
+    "image": "image.png",
+    "animation_url": "",
+    "external_url": "https://www.babydoodles.art",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White-Paper"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Features",
+            "value": "Clean"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Puckered"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Baseball"
+        }
+    ],
+    "collection": {
+        "name": "Baby Avatars",
+        "family": "Baby Doodles"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "image.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "HAhri3YyDyg5ZmzYmr7niMAohL5CbnbspwbvfcFHAVZA",
+                "share": 100
+            }
+        ]
+    }
+}
